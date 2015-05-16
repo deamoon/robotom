@@ -12,8 +12,8 @@ Contents:
    :maxdepth: 2
 
    tango-client
-   module-experiment
-   web-interface
+   module_experiment
+   Web-interface
 
 Indices and tables
 ==================
